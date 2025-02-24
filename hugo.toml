@@ -5,3 +5,9 @@ theme = 'hugo-theme-relearn'
 [module]
   [[module.imports]]
     path = 'github.com/McShelby/hugo-theme-relearn'
+
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Repository"
+url = "https://github.com/AbhashTech/ham.abhashtech.com"
+weight = 1

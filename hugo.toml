@@ -1,6 +1,6 @@
 baseURL = 'https://ham.abhashtech.com/'
 languageCode = 'en-us'
-title = 'Prepration for ASOC Exam'
+title = 'ASOC Exam Notes'
 theme = 'hugo-theme-relearn'
 [module]
   [[module.imports]]

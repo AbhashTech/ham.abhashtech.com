@@ -21,4 +21,4 @@ Here are some **advantages** and **uses in daily life**:
 4. **Public Service**: Many HAM radio operators provide public service communications support for events like marathons, parades, and community events.
 5. **Hobby and Relaxation**: For many, it’s simply an enjoyable pastime that offers relaxation and the thrill of making long-distance connections.
 
-If you’re looking to dive deeper into the world of HAM radio, you might find it rewarding, especially given your passion for the community and technology. How’s your current project with APRS and DireWolf TNC Software going, by the way?
+If you’re looking to dive deeper into the world of HAM radio, you might find it rewarding. This website is aiming towards guiding the mass about HAM Radio in India. 
